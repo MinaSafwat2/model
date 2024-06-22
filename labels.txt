@@ -1,0 +1,13 @@
+0 Class AQueen_in_the_form_of_the_Sphinx
+1 Class God_Nilus
+2 Class Khonsu
+3 Class King_Fouad_I
+4 Class Pen_Menkh_TheGovernerOf_Dendara
+5 Class Mamulk lamps
+6 Class the_female_peasent
+7 Class Amun ra king of gods
+8 Class King_Akhenaten
+9 Class Mohamed_Talaat_Pasha_Harb
+10 Class Senamunt
+11 Class Ra_Horakhty
+12 Class Unknown 
